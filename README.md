@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="naga codex factory 2" src="https://github.com/user-attachments/assets/5a498828-9eab-47a8-a8cc-94a29648a7b0" />
 # Naga Codex Factory Skill
 
 > Naga Codex Factory — the 4-beat factory pipeline (`Isolate → Build → Prove → Ship`) as a global OpenCode/Claude Code skill.
